@@ -1,0 +1,1 @@
+floyd run --gpu --mode jupyter --env tensorflow --data yunqili/datasets/housenumbers/1:train
